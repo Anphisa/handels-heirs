@@ -13,4 +13,4 @@ This is manually reviewed concert information.
    The files contain less information than the original dataset, since not all information easily fits into data scheme.
    The most recent files are in main folder, older versions can be found in *older_versions/* folder.
    
- Data is available under a [CC-by-nc-sa4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+ Data is available under a [CC-by-nc-sa 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
